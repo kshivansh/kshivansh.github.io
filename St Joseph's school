@@ -1,0 +1,12 @@
+<html>
+<head><title>St Joseph's School </title> </head>
+<body bgcolor = "white" link = "Green" alink = "purple" vlink = "red">
+<img src = /home/shivansh/Pictures\Josephites.png height = "70%" width = "20%" align = "right">
+<h1 size = "72" color = "red">
+St Joseph's School</h1>
+<marquee behavior = "slide">
+<a href = "http://www.josephitesgkp.edu.in/">Registration open for UKG</a>
+</marquee>
+
+</body>
+</html>
